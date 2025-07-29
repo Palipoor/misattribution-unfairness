@@ -3,7 +3,7 @@ Repository for the paper "Quantifying Misattribution Unfairness in Authorship At
 
 
 - [paper on arxiv](https://arxiv.org/abs/2506.02321)
-- paper on ACL anthology - coming soon
+- [paper on ACL anthology](https://aclanthology.org/2025.acl-short.80/)
 
 
 ## Running the code
